@@ -1,14 +1,14 @@
 [
 	{
-		name: "Map Fog Viewer",
-		author: "Excrulon",
-		githubRepo: "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/tree/master/addons/mapfogviewer",
-		description: "Allows players to see the fog on the map as red tiles instead of the hard to see default fog. Makes exploration really easy!"
+		"name": "Map Fog Viewer",
+		"author": "Excrulon",
+		"githubRepo": "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/tree/master/addons/mapfogviewer",
+		"description": "Allows players to see the fog on the map as red tiles instead of the hard to see default fog. Makes exploration really easy!"
 	},
 	{
-		name: "Monster Tracker",
-		author: "Excrulon",
-		githubRepo: "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/tree/master/addons/monstertracker",
-		description: "Displays monster kills on the screen so you can know when you have completed your journal entry and can retrieve your reward."
+		"name": "Monster Tracker",
+		"author": "Excrulon",
+		"githubRepo": "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/tree/master/addons/monstertracker",
+		"description": "Displays monster kills on the screen so you can know when you have completed your journal entry and can retrieve your reward."
 	}
 ]
