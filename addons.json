@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Experience Card Calculator",
+		"author": "Excrulon",
+		"package": "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/blob/master/addons/expcardcalculator/addon.json",
+		"description": "Automatically calculates the level you'll be after using all of your experience cards.",
+		"tags": [
+			"experience"
+		]
+	},
+	{
 		"name": "Map Fog Viewer",
 		"author": "Excrulon",
 		"githubRepo": "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/tree/master/addons/mapfogviewer",
