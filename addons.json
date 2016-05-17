@@ -2,7 +2,7 @@
 	{
 		"name": "Experience Card Calculator",
 		"author": "Excrulon",
-		"package": "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/blob/master/addons/expcardcalculator/addon.json",
+		"package": "https://raw.githubusercontent.com/Excrulon/Experience-Card-Calculator/master/addon.json",
 		"description": "Automatically calculates the level you'll be after using all of your experience cards.",
 		"tags": [
 			"experience"
