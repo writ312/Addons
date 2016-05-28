@@ -1,7 +1,8 @@
 {
 	"sources" : [
 		{
-			"name" : "Excrulon's Addons",
+			"author" : "Excrulon",
+			"repo" : "Tree-of-Savior-Lua-Mods",
 			"url" : "https://raw.githubusercontent.com/Excrulon/Tree-of-Savior-Lua-Mods/master/addons.json"
 		}
 	]
