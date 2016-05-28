@@ -1,71 +1,8 @@
-[
-	{
-		"name": "Map Fog Viewer",
-		"author": "Excrulon",
-		"githubRepo": "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/tree/master/addons/mapfogviewer",
-		"description": "Allows players to see the fog on the map as red tiles instead of the hard to see default fog. Makes exploration really easy!",
-		"tags": [
-			"map",
-			"minimap",
-			"fog"
-		]
-	},
-	{
-		"name": "Monster Tracker",
-		"author": "Excrulon",
-		"githubRepo": "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/tree/master/addons/monstertracker",
-		"description": "Displays monster kills on the screen so you can know when you have completed your journal entry and can retrieve your reward.",
-		"tags": [
-			"journal",
-			"monster"
-		]
-	},
-	{
-		"name": "Experience Viewer",
-		"author": "Excrulon",
-		"githubRepo": "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/tree/master/addons/expviewer",
-		"description": "A handy window that allows you to view all types of experience data! Includes current and required experience, experience percent, kills needed for a level, experience per hour, and estimated time until level up.",
-		"tags": [
-			"experience"
-		]
-	},
-	{
-		"name": "Channel Surfer",
-		"author": "Excrulon",
-		"githubRepo": "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/tree/master/addons/channelsurfer",
-		"description": "Removes the confirmation box when changing channels, expands the channel drop down box to display more channels, and adds buttons that lets you quickly cycle through channels.",
-		"tags": [
-			"channels"
-		]
-	},
-	{
-		"name": "Monster Frames",
-		"author": "Excrulon",
-		"githubRepo": "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/tree/master/addons/monsterframes",
-		"description": "Enhances the monster frames by displaying HP, race, attribute, armor, size, move type, kill counts, and more!",
-		"tags": [
-			"ui",
-			"frames"
-		]
-	},
-	{
-		"name": "Better Quest",
-		"author": "gibbed",
-		"githubRepo": "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/tree/master/addons/betterquest",
-		"description": "Enhanced quest window that allows you to see all quests that you are eligible for! Makes it very easy to find all quests that you've missed.",
-		"tags": [
-			"quests",
-			"ui"
-		]
-	},
-	{
-		"name": "Show Invested Stat Points",
-		"author": "mc-crafty",
-		"githubRepo": "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods/tree/master/addons/showInvestedStatPoints",
-		"description": "Enhanced stat window that allows you to see how many points you've put into each stat.",
-		"tags": [
-			"stats",
-			"ui"
-		]
-	}
-]
+{
+	"sources" : [
+		{
+			"name" : "Excrulon's Addons",
+			"url" : "https://raw.githubusercontent.com/Excrulon/Tree-of-Savior-Lua-Mods/master/addons.json"
+		}
+	]
+}
