@@ -2,7 +2,7 @@
 	"sources" : [
 		{
 			"author" : "Excrulon",
-			"repo" : "Tree-of-Savior-Lua-Mods",
+			"repo" : "Test-Addon",
 			"url" : "https://raw.githubusercontent.com/Excrulon/Test-Addon/master/addons.json"
 		}
 	]
