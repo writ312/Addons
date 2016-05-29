@@ -1,16 +1,16 @@
 {
 	"sources" : [
 		{
-			"author" : "Excrulon",
-			"repo" : "Test-Addon",
-			"url" : "https://raw.githubusercontent.com/Excrulon/Test-Addon/master/addons.json",
-			"website" : "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods"
+			"repo" : "Excrulon/Tree-of-Savior-Lua-Mods"
 		},
 		{
-			"author" : "TehSeph",
-			"repo" : "tos-addons",
-			"url" : "https://raw.githubusercontent.com/TehSeph/tos-addons/master/addons.json",
-			"website" : "https://github.com/TehSeph/tos-addons"
+			"repo" : "TehSeph/tos-addons"
+		},
+		{
+			"repo" : "MizukiBelhi/ExtendedUI"
+		},
+		{
+			"repo" : "Miei/TOS-lua"
 		}
 	]
 }
