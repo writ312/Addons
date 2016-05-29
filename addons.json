@@ -3,7 +3,8 @@
 		{
 			"author" : "Excrulon",
 			"repo" : "Test-Addon",
-			"url" : "https://raw.githubusercontent.com/Excrulon/Test-Addon/master/addons.json"
+			"url" : "https://raw.githubusercontent.com/Excrulon/Test-Addon/master/addons.json",
+			"website" : "https://github.com/Excrulon/Tree-of-Savior-Lua-Mods"
 		}
 	]
 }
