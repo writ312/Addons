@@ -11,6 +11,9 @@
 		},
 		{
 			"repo" : "Miei/TOS-lua"
+		},
+		{
+			"repo" : "Xanaxiel/ToS-Addons"
 		}
 	]
 }
