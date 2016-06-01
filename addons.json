@@ -1,4 +1,12 @@
 {
+	"dependencies" : [
+		{
+			"url" : "https://raw.githubusercontent.com/Tree-of-Savior-Addon-Community/AC-Util/master/src/acutil.lua"
+		},
+		{
+			"url" : "https://raw.githubusercontent.com/Tree-of-Savior-Addon-Community/AC-Util/master/src/json.lua"
+		}
+	],
 	"sources" : [
 		{
 			"repo" : "Excrulon/Test-Addon"
