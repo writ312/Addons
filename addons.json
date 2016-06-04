@@ -28,6 +28,9 @@
 		},
 		{
 			"repo" : "Gardios/ToS-Addons"
+		},
+		{
+			"repo" : "Fiote/TreeOfSavior-Addons"
 		}
 	]
 }
