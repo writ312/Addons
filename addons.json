@@ -34,6 +34,9 @@
 		},
 		{
 			"repo" : "Fiote/ToS-Addons"
+		},
+		{
+			"repo" : "renatolb/TOS-addons"
 		}
 	]
 }
