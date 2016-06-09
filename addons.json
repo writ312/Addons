@@ -38,5 +38,8 @@
 		{
 			"repo" : "renatolb/TOS-addons"
 		}
+		{
+			"repo" : "axjv/Input-Switcher"
+		}
 	]
 }
