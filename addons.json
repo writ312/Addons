@@ -40,6 +40,9 @@
 		},
 		{
 			"repo" : "axjv/Input-Switcher"
+		},
+		{
+			"repo" : "Saishy/betterchatfilter"
 		}
 	]
 }
