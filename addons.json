@@ -46,6 +46,9 @@
 		},
 		{
 			"repo" : "Mirarara/Mirarara-Tos-Addon"
+		},
+		{
+			"repo" : "MizukiBelhi/ToS_MiniMapExtra"
 		}
 	]
 }
