@@ -55,6 +55,9 @@
 		},
 		{
 			"repo" : "angelix2532/TOS-Addon"
+		},
+		{
+			"repo" : "librarianrabbit/tos-addons"
 		}
 	]
 }
