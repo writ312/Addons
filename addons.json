@@ -58,6 +58,9 @@
 		},
 		{
 			"repo" : "librarianrabbit/tos-addons"
+		},
+		{
+			"repo" : "torahamu/TOSAddon"
 		}
 	]
 }
