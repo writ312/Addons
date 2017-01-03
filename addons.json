@@ -11,54 +11,7 @@
 		}
 	],
 	"sources" : [
-		{
-			"repo" : "Excrulon/Tree-of-Savior-Addons"
-		},
-		{
-			"repo" : "TehSeph/tos-addons"
-		},
-		{
-			"repo" : "MizukiBelhi/ExtendedUI"
-		},
-		{
-			"repo" : "Miei/TOS-lua"
-		},
-		{
-			"repo" : "Xanaxiel/ToS-Addons"
-		},
-		{
-			"repo" : "MrJul/ToS-EnhancedCollection"
-		},
-		{
-			"repo" : "Gardios/ToS-Addons"
-		},
-		{
-			"repo" : "Fiote/ToS-Addons"
-		},
-		{
-			"repo" : "renatolb/TOS-addons"
-		},
-		{
-			"repo" : "axjv/Input-Switcher"
-		},
-		{
-			"repo" : "Saishy/betterchatfilter"
-		},
-		{
-			"repo" : "Mirarara/Mirarara-Tos-Addon"
-		},
-		{
-			"repo" : "MizukiBelhi/ToS_MiniMapExtra"
-		},
-		{
-			"repo" : "FiftyCaliber/ToS-Addons"
-		},
-		{
-			"repo" : "angelix2532/TOS-Addon"
-		},
-		{
-			"repo" : "librarianrabbit/tos-addons"
-		},
+		
 		{
 			"repo" : "torahamu/TOSAddon"
 		},
