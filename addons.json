@@ -13,13 +13,15 @@
 	"sources" : [
 		
 		{
-			"repo" : "torahamu/TOSAddon"
+			"repo" : "torahamu/TOSAddon",
+			"twitter" : "torahamu_39"
 		},
 		{
 			"repo" : "Monogusa1244/MonogusaAddonStore"
 		},
 		{
-			"repo" : "writ312/myTosAddons"
+			"repo" : "writ312/myTosAddons",
+			"twitter":"writ312"
 		}
 	]
 }
